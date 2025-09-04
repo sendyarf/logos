@@ -105,13 +105,14 @@ if __name__ == "__main__":
     # --- DAFTAR URL LIGA YANG INGIN DIUNDUH ---
     # Cukup tambahkan URL klasemen liga lain dari Flashscore di sini
     urls_to_scrape = [
-        "https://www.flashscore.com/football/england/premier-league/standings/#/OEEq9Yvp/table/overall",
-        "https://www.flashscore.com/football/france/ligue-1/standings/#/j9QeTLPP/table/overall",
-        "https://www.flashscore.com/football/germany/bundesliga/standings/#/8UYeqfiD/table/overall",
-        "https://www.flashscore.com/football/italy/serie-a/standings/#/6PWwAsA7/table/overall",
-        "https://www.flashscore.com/football/netherlands/eredivisie/standings/#/dWKtjvdd/table/overall",
-        "https://www.flashscore.com/football/spain/laliga/standings/#/vcm2MhGk/table/overall",
-        "https://www.flashscore.com/football/europe/champions-league/standings/#/UiRZST3U/table/overall"
+        #"https://www.flashscore.com/football/england/premier-league/standings/#/OEEq9Yvp/table/overall",
+        #"https://www.flashscore.com/football/france/ligue-1/standings/#/j9QeTLPP/table/overall",
+        #"https://www.flashscore.com/football/germany/bundesliga/standings/#/8UYeqfiD/table/overall",
+        #"https://www.flashscore.com/football/italy/serie-a/standings/#/6PWwAsA7/table/overall",
+        #"https://www.flashscore.com/football/netherlands/eredivisie/standings/#/dWKtjvdd/table/overall",
+        #"https://www.flashscore.com/football/spain/laliga/standings/#/vcm2MhGk/table/overall",
+        #"https://www.flashscore.com/football/europe/champions-league/standings/#/UiRZST3U/table/overall"
+        "https://www.flashscore.com/football/europe/world-championship/standings/#/GUncR9aR/table/overall"
     ]
     
     download_logos(urls_to_scrape)
