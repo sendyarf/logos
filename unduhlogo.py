@@ -112,7 +112,7 @@ if __name__ == "__main__":
         #"https://www.flashscore.com/football/netherlands/eredivisie/standings/#/dWKtjvdd/table/overall",
         #"https://www.flashscore.com/football/spain/laliga/standings/#/vcm2MhGk/table/overall",
         #"https://www.flashscore.com/football/europe/champions-league/standings/#/UiRZST3U/table/overall"
-        "https://www.flashscore.com/football/africa/world-championship/standings/#/GUncR9aR/standings/overall/"
+        "https://www.flashscore.com/football/indonesia/super-league/standings/#/QqIn9e16/standings/overall/"
     ]
     
     download_logos(urls_to_scrape)
